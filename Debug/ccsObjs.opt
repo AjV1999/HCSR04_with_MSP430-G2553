@@ -1,0 +1,1 @@
+"./main.obj" "./ultra_source.obj" "../lnk_msp430g2553.cmd" -llibc.a 

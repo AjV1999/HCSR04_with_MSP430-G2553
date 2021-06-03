@@ -1,5 +1,5 @@
 # HCSR04_with_MSP430-G2553
-This is an Embedded-C based program module to interface the HCSR04 Ultrasonic module with the MSP430-G2553 microcontroller developed by Texas Instruments.
+This is an Embedded-C based program module to interface the HCSR04 Ultrasonic module with the MSP430-G2553 microcontroller developed by Texas Instruments. The module  was developed using Code Composer studio which is an IDE used to develop applications for Texas Instruments embedded processors.
 
 The HC-SR04 ultrasonic sensor is a simple senor with 4 pins:
 1)	Vcc : +5V DC input; 
